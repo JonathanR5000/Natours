@@ -1,4 +1,4 @@
-<h1> Natours </h1>
+<h1> Natours Project</h1>
 <h2> Skills used to develop the project: </h2>
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)

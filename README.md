@@ -1,13 +1,12 @@
-<h1> Natours Project</h1>
-<h2> Designed by Jonas Schedtmann </h2>
-<h2> Skills used to develop the project: </h2>
+# Objective
+This project focuses on advanced methods of CSS, and also practice SASS methods. The tools were used to create a better website, that is implemented with many animations, and used SASS to organize media queries. The website is also efficient in both desktop and mobile platforms, for whatever the user prefers. This was the outcome of the project known as Natours designed by Jonas Schmedtmann.
+# Natours   
+Natours is a fictional resort tour, that provides tours for customers and includes various packages that the user can choose. The website also has an option to choose the size of the group that will be participating in the tour. The purpose of the website is to practive advanced CSS and SASS methods, to better organize the code that is used to create certain parts of the website.
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+# <h4>Natours Widescreen Tour:</h4>
 
----
-<h2> Improvement In The Future </h2>
+![gif](Omnifood_tour.gif)
 
-Make the website more responsive, due to minor bugs in the mobile version of the project. 
-I will eventually edit the project to fix the :bug:	that is still occuring on the project, once I get a 
-better grasp of JavaScript
+# <h4>Natorus Smartphone Tour:</h4>
+
+![gif](Omnifood_smartphone_tour.gif)

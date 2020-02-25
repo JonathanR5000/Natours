@@ -9,4 +9,4 @@ Natours is a fictional resort tour, that provides tours for customers and includ
 
 # <h4>Natorus Smartphone Tour:</h4>
 
-![gif](Omnifood_smartphone_tour.gif)
+![gif](natours_smartphone_tour.gif)
